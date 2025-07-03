@@ -1,0 +1,85 @@
+version: 2.11.1
+apkFileName: com.dvdfu.chicken2 v2.3.3_antisplit.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 23
+  targetSdkVersion: 34
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 248
+  versionName: 2.3.3
+sharedLibrary: false
+sparseResources: false
+compactEntries: false
+doNotCompress:
+- arsc
+- png
+- META-INF/androidx.activity_activity-ktx.version
+- META-INF/androidx.activity_activity.version
+- META-INF/androidx.annotation_annotation-experimental.version
+- META-INF/androidx.core_core-ktx.version
+- META-INF/androidx.core_core.version
+- META-INF/androidx.customview_customview.version
+- META-INF/androidx.datastore_datastore.version
+- META-INF/androidx.fragment_fragment.version
+- META-INF/androidx.loader_loader.version
+- META-INF/androidx.profileinstaller_profileinstaller.version
+- META-INF/androidx.room_room-runtime.version
+- META-INF/androidx.savedstate_savedstate-ktx.version
+- META-INF/androidx.savedstate_savedstate.version
+- META-INF/androidx.sqlite_sqlite-framework.version
+- META-INF/androidx.sqlite_sqlite.version
+- META-INF/androidx.startup_startup-runtime.version
+- META-INF/androidx.tracing_tracing.version
+- META-INF/androidx.versionedparcelable_versionedparcelable.version
+- META-INF/androidx.viewpager_viewpager.version
+- META-INF/androidx.webkit_webkit.version
+- META-INF/androidx.work_work-runtime-ktx.version
+- META-INF/androidx.work_work-runtime.version
+- META-INF/com.android.games.engine.build_fingerprint
+- META-INF/kotlinx_coroutines_android.version
+- META-INF/kotlinx_coroutines_core.version
+- assets/0NilDxnwYw0qSd4a
+- assets/1BY2ZcGhcDOjhAuA
+- assets/3NyjGkQRBBjKOKze
+- assets/3rDsrMVWByfNIrrS
+- assets/5fzVXHKbM1M3ElrM
+- assets/5voyPDhSwcXuBmNH
+- assets/AA9CDOpLLE6fH2zl
+- assets/C459FXP7RrQdTUwg
+- assets/KxzS9CWhym4kmipX
+- assets/Master.bank
+- assets/Master.strings.bank
+- assets/Music.bank
+- assets/ODzU9i1dRhG8eqsv
+- assets/P6LsHSBAdcmaWtGN
+- assets/PnLojrdT0d3J21XN
+- assets/PyeiYK9D8ApAoNRK
+- assets/SFX.bank
+- assets/Sazhn2zcjSMLnwxW
+- assets/UPZGjRcBzXvd9h7K
+- assets/bin/Data/data.unity3d
+- assets/bin/Data/unity_app_guid
+- assets/dexopt/baseline.prof
+- assets/dexopt/baseline.profm
+- assets/dfqY7TPVtvhFHw5S
+- assets/fliJXNONTrivIQOb
+- assets/h5r2084c35kBGPJW
+- assets/hH79J79YiXKApWNj
+- assets/invN0zQY921FLSGy
+- assets/jaZunewQajtZxzcD
+- assets/jsYPGuX27pkR1t4V
+- assets/oYbr9wE4SqH49KZ2
+- assets/p9UYsJMjYcIMXyXw
+- assets/xpmcTMsoJcRvHrhu
+- assets/z6JjsPNB7xcHeNSp
+- assets/zyqpcy7yFd6S51vw
+- okhttp3/internal/publicsuffix/publicsuffixes.gz
+- res/raw/com_android_billingclient_heterodyne_info
+- res/raw/com_android_billingclient_registration_info.binarypb

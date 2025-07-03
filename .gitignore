@@ -1,0 +1,10 @@
+# Ignore all JAR files (Java archives)
+*.jar
+**/*.jar
+
+# Ignore all APK files (Android packages)
+*.apk
+**/*com.apk
+
+# Ignore apktool.jar specifically (in any location)
+**/apktool.jar
